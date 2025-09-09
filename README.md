@@ -43,3 +43,12 @@ It helps you organize tasks with due dates, progress tracking, and a clean Mater
 
 ## 🎮 Live Demo
 👉 [Try To-Do List here](https://saaquuiib.github.io/todo-list/)
+
+
+## 📜 License
+This project is released under the MIT License — free to use, modify, and share.
+
+
+## 👨‍💻 Author
+
+Made with ❤️ by Saaquib Rahman.
