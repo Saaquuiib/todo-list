@@ -17,7 +17,7 @@ It helps you organize tasks with due dates, progress tracking, and a clean Mater
 
 ---
 
-## 🎮 How to Use
+## ❓ How to Use
 
 1. Type your task in the input field.  
 2. (Optional) Add a due date.  
