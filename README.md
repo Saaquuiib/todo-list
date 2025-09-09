@@ -1,4 +1,4 @@
-# 📝 To-Do List 2.0
+# 📝 To-Do List
 
 A modern, responsive **to-do list web app** built with **HTML, CSS, and JavaScript**.  
 It helps you organize tasks with due dates, progress tracking, and a clean Material-inspired design.
